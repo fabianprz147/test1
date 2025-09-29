@@ -13,3 +13,5 @@
    ```
    python -m ensurepip
    ```
+
+ESTO ES UN COMENTARIO BOB ESPONJA UWU
