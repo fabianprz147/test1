@@ -1,0 +1,15 @@
+# Installation Instructions for Python
+
+1. Download the Python installer from the official website: [python.org](https://www.python.org/downloads/).
+2. Run the installer and follow the prompts.
+3. Make sure to check the box that says 'Add Python to PATH'.
+4. Once the installation is complete, open your command line (Command Prompt, PowerShell, or Terminal).
+5. Verify the installation by running the command:
+   ```
+   python --version
+   ```
+6. If Python is installed correctly, you will see the version number displayed.
+7. You can also install pip (Python package manager) if it wasn't included by default, using the command:
+   ```
+   python -m ensurepip
+   ```
